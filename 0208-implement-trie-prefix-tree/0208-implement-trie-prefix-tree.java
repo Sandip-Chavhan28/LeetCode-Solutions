@@ -1,19 +1,13 @@
 class Trie {
     class Node{
         Node children[] = new Node[26];
-        boolean eow = false;
-
-        public Node(){
-            for(int i=0 ; i<26 ; i++){
-                children[i] = null;
-            }
-        } 
+        boolean eow = false; 
     }
 
-    public Node root = new Node();
+    public Node root;
 
     public Trie() {
-        
+        root = new Node();
     }
     
     public void insert(String word) {
