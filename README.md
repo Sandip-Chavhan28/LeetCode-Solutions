@@ -38,15 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
