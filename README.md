@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -123,14 +124,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
