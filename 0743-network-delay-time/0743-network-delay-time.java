@@ -11,18 +11,13 @@ class Solution {
         }
     }
 
-    public class Pair implements Comparable<Pair>{
+    public class Pair{
         int n;
         int path;
 
         public Pair(int n,int path){
             this.n = n ;
             this.path = path;
-        }
-
-        @Override
-        public int compareTo(Pair other){
-            return this.path-other.path;
         }
     }
 
@@ -34,7 +29,7 @@ class Solution {
         }
 
         boolean visit[] = new boolean[dist.length+1];
-        PriorityQueue<Pair>pq = new PriorityQueue<>();
+        PriorityQueue<Pair>pq = new PriorityQueue<>((a,b) -> a.path - b.path);
         pq.add(new Pair(src,0));
 
         while(!pq.isEmpty()){
