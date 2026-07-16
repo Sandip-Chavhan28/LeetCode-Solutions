@@ -1,7 +1,7 @@
 class Solution {
-    public long gcd(long a,long b){
+    public int gcd(int a,int b){
         while(b>0){
-            long temp = a;
+            int temp = a;
             a = b;
             b = temp % b;
         }
@@ -9,26 +9,20 @@ class Solution {
     }
     public long gcdSum(int[] nums) {
         int n= nums.length;
-        int mx[] = new int[n];
-        int prefix[]= new int[n];
-
         int max = 0;
 
         for(int i=0 ; i<n ; i++){
             if(max < nums[i]){
                 max = nums[i];
             }
-            mx[i] = max;
-            prefix[i] = (int)gcd(nums[i],mx[i]);
+            nums[i] = gcd(nums[i],max);
         }
-        Arrays.sort(prefix);
+        Arrays.sort(nums);
         int start = 0;
-        int end = prefix.length-1;
+        int end = nums.length-1;
         long sum = 0;
         while(start<end){
-            sum += gcd(prefix[start],prefix[end]);
-            start++;
-            end--;
+            sum += gcd(nums[start++],nums[end--]);
         }
         return sum;
     }
