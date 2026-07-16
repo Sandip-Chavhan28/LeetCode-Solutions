@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Number Theory
 |  |
 | ------- |
