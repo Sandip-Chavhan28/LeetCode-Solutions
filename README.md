@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
