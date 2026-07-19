@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
