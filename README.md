@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Queue
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
