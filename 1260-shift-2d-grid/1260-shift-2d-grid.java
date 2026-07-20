@@ -3,6 +3,8 @@ class Solution {
         int n=grid.length;
         int m=grid[0].length;
         int[][] temp = new int[n][m];
+        int total = n*m;
+        k= k%total;
         while(k>0){
             temp[0][0] = grid[n-1][m-1];
             for(int j=0 ;j<m ;j++){
