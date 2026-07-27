@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Design
