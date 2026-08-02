@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
