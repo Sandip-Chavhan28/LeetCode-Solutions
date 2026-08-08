@@ -1,38 +1,23 @@
 class Solution {
     List<String>list = new ArrayList<>();
-    public boolean check(String s){
-        Stack<Character> stack = new Stack<>();
-        for(int i=0 ; i<s.length() ; i++){
-            char ch = s.charAt(i);
-            if(ch == '('){
-                stack.push(ch);
-            }else{
-                if(stack.isEmpty()){
-                    return false;
-                }
-                if(stack.pop() != '('){
-                    return false;
-                }
-            }
-        }
-        if(!stack.isEmpty()){
-            return false;
-        }
-        return true;
-    }
-    public void generate(int n,String s){
-        if(s.length()==n){
-            if(check(s)){
-                list.add(s);
-            }
+    public void generate(int open,int close,StringBuilder sd,int n){
+        if(open == n && close == n){
+            list.add(sd.toString());
             return;
         }
-        generate(n,s+"(");
-        generate(n,s+")");
+        if(open < n){
+            generate(open+1,close,sd.append('('),n);
+            sd.deleteCharAt(sd.length()-1);
+        }
+        if(close<open){
+            generate(open,close+1,sd.append(')'),n);
+            sd.deleteCharAt(sd.length()-1);
+        }
+
     }
     public List<String> generateParenthesis(int n) {
-        String s = new String();
-        generate(2*n,s);
+        StringBuilder sd = new StringBuilder();
+        generate(0,0,sd,n);
         return list;
     }
 }
