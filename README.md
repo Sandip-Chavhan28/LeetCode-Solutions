@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0454-4sum-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
