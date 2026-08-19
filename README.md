@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
