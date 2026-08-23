@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0709-to-lower-case](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
