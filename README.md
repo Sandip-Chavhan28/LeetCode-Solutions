@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Array
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
