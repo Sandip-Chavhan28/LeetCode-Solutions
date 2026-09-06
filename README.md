@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
