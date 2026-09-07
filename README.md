@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
