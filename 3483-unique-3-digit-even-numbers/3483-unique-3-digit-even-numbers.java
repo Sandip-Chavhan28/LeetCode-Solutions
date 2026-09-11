@@ -1,35 +1,22 @@
 class Solution {
-    int count = 0;
 
-    public void generatethreedigit(int digits[],ArrayList<Integer>list,boolean visit[]){
-        if(list.size() == 3){
-            if(list.get(0) != 0 && list.get(list.size()-1) % 2 == 0){
-                count++;
-                return;
-            }
-        }
-
-        for(int i=0 ; i<digits.length ;i++){
-            if(visit[i]){
-                continue;
-            }
-
-            if(i > 0 && digits[i] == digits[i-1] && !visit[i-1]){
-                continue;
-            }
-
-            visit[i] = true;
-            list.add(digits[i]);
-            generatethreedigit(digits,list,visit);
-            list.remove(list.size()-1);
-            visit[i] =false;
-        }
-    }
     public int totalNumbers(int[] digits) {
-        Arrays.sort(digits);
-        boolean visit[] = new boolean[digits.length];
-        ArrayList<Integer>list = new ArrayList<>();
-        generatethreedigit(digits,list,visit);
-        return count;
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int i=0 ; i<digits.length; i++){
+            for(int j=0 ; j<digits.length; j++){
+                for(int k=0 ; k<digits.length; k++){
+                    if(i != j && j!= k && k != i){
+                        if(digits[i] != 0){
+                            if(digits[k] % 2 == 0){
+                                int number = digits[k] + digits[j] * 10 + digits[i]*100;
+                                set.add(number);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return set.size();
     }
 }
