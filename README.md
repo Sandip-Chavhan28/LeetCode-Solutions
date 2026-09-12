@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0658-find-k-closest-elements](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
