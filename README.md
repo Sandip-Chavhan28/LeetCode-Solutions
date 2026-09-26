@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1701-average-waiting-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1701-average-waiting-time) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
