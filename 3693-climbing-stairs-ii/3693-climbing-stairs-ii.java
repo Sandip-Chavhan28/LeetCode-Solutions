@@ -4,23 +4,18 @@ class Solution {
         if(n == 0){
             return 0;
         }
-
         if(dp[n] != -1){
             return dp[n];
         }
-
         int one = cS(n-1,costs,dp) + costs[n-1] + 1;
-
         int two = Integer.MAX_VALUE;
         if(n > 1){
             two = cS(n-2,costs,dp) + costs[n-1] + 4;
         }
-
         int three = Integer.MAX_VALUE;
         if(n>2){
             three = cS(n-3,costs,dp) + costs[n-1] + 9;
         }
-
         dp[n] = Math.min(one , Math.min(two,three));
         return dp[n];
         
@@ -28,7 +23,26 @@ class Solution {
     public int climbStairs(int n, int[] costs) {
         int dp[] = new int[n+1];
         Arrays.fill(dp,-1);
-        return cS(n,costs,dp);
+        // return cS(n,costs,dp);
+
+        dp[0] = 0;
+
+        for(int i=1 ; i<n+1 ; i++){
+            int one = dp[i-1] + costs[i-1] + 1;
+
+            int two = Integer.MAX_VALUE;
+            if(i > 1){
+                two = dp[i-2] + costs[i-1] + 4;
+            }
+
+            int three = Integer.MAX_VALUE;
+            if(i > 2){
+                three = dp[i-3] + costs[i-1] + 9;
+            }
+
+            dp[i] = Math.min(one,Math.min(two,three));
+        }
+        return dp[n];
 
         // int dp1=0,dp2=0,dp3=0;
         // for(int i=1;i<=n;i++){
