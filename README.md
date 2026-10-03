@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0881-boats-to-save-people](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
