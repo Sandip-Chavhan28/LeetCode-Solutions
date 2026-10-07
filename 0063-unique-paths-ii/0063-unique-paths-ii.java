@@ -28,10 +28,29 @@ class Solution {
         int n = obstacleGrid.length;
         int m = obstacleGrid[0].length;
         int dp[][] = new int[n+1][m+1];
-        for(int i=0 ; i<n; i++){
-            Arrays.fill(dp[i],-1);
-        }
+        // for(int i=0 ; i<n; i++){
+        //     Arrays.fill(dp[i],-1);
+        // }
 
-        return upwo(0,0,obstacleGrid,dp,n,m);
+        // return upwo(0,0,obstacleGrid,dp,n,m);
+
+        dp[1][1] = obstacleGrid[0][0] == 1 ? 0:1;
+        for(int i=1 ; i<n+1 ; i++){
+            for(int j=1 ; j< m+1 ; j++){
+
+                if(i== 1 && j == 1){
+                    continue;
+                }
+                if(obstacleGrid[i-1][j-1] == 1){
+                    dp[i][j] = 0;
+                }else{
+                    int down = dp[i-1][j];
+                    int right = dp[i][j-1];
+
+                    dp[i][j] = down + right;
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
