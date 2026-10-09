@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
 |  |
 | ------- |
