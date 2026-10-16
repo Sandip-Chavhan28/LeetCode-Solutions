@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
