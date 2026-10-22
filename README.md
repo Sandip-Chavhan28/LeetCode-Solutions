@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -525,9 +528,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
