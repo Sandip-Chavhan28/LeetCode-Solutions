@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0556-next-greater-element-iii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1701-average-waiting-time) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
