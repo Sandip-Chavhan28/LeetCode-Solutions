@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2409-count-days-spent-together](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sandip-Chavhan28/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
